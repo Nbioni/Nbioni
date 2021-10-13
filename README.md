@@ -12,7 +12,12 @@ diferentes, possuo uma vasta experiência em proporcionar soluções em TI.</br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nbioni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbioni&layout=compact&langs_count=7&theme=tokyonight "/>
   </a>
+  
+![](https://komarev.com/ghpvc/?username=Nbioni&color=0075c9)
+  
 </div>
+
+
 <div align="right">
   
 > _"Inteligência é a capacidade de se adaptar à mudança" <br> ~Stephen Hawking_ 
