@@ -1,11 +1,11 @@
-## Olá, eu sou o Nahaliel Bioni 
-### Seja muito bem vindo ao meu Git <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;">
+## Hi, I'm Nahaliel Bioni
+### Welcome to my Git <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;">
 
 <p>
-Sou engenheiro da computação e atualmente estou trabalhando em projetos com Flutter Web e NodeJS.</br></br>
-Apaixonado por T.I busco sempre novos conhecimentos em soluções tecnológicas.
-Com um total de 7 anos de experiência com programação atuando em várias stacks
-diferentes, possuo uma vasta experiência em proporcionar soluções em TI.</br>
+I am a computer engineer and currently working on projects with Flutter</br></br>
+I am passionate about I.T. and am always looking for new knowledge in technological solutions.
+With a total of 8 years of programming experience working in several different stacks
+different stacks, I have vast experience in providing IT solutions.</br>
 </p>
 <div align="center">
   <a href="https://github.com/Nbioni">
@@ -20,7 +20,7 @@ diferentes, possuo uma vasta experiência em proporcionar soluções em TI.</br>
 
 <div align="right">
   
-> _"Inteligência é a capacidade de se adaptar à mudança" <br> ~Stephen Hawking_ 
+> _"Intelligence is the ability to adapt to change" <br> ~Stephen Hawking_ 
   
 </div>
 <br>
@@ -28,11 +28,10 @@ diferentes, possuo uma vasta experiência em proporcionar soluções em TI.</br>
   [<img align="right" alt="Naha-pic" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/kevmoo/dart_side/master/Dash%20Dart%20PNG%20%20-%20white.png" />](https://github.com/kevmoo/dart_side)
   <div align="center">
   
-### Principais Qualidades
-
-Atencioso 🧐 Observador<br>
-Criativo 🎨 Autêntico<br>
-Comunicativo 😊 Sociável<br>
+### Main Qualities
+Attentive 🧐 Observant<br>
+Creative 🎨 Authentic<br>
+Communicative 😊 Sociable<br>
 </div>
 <br>
 <div align="center" style="display: inline_block">
