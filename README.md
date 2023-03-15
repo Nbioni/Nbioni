@@ -3,6 +3,9 @@
 
 <p>
 I am a computer engineer and currently working on projects with Flutter</br></br>
+
+Take a look at my website: [nbioni.com](https://nbioni.com/)
+
 As a dedicated and professional software developer with eight years of experience in various programming stacks, I am committed to providing innovative and efficient technological solutions. My strengths include being attentive, observant, creative, authentic, and communicative, and I'm always excited to continue growing my skills and contributing to the success of international technology companies.</br>
 </p>
 <div align="center">
