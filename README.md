@@ -37,17 +37,18 @@ Communicative 😊 Sociable<br>
 <br>
 <div align="center" style="display: inline_block">
   
+  [<img align="center" alt="Nahaliel-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">](https://nextjs.org/)
   [<img align="center" alt="Nahaliel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org/)
   [<img align="center" alt="Nahaliel-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />](https://flutter.dev/)
   [<img align="center" alt="Nahaliel-Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">](https://vuejs.org/)
-  [<img align="center" alt="Nahaliel-Nest.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />](https://nestjs.com/)
+  [<img align="center" alt="Nahaliel-Nest.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />](https://nestjs.com/)
   [<img align="center" alt="Nahaliel-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">](https://nodejs.org/)
   [<img align="center" alt="Nahaliel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">](https://docs.microsoft.com/pt-br/dotnet/csharp/)
-  [<img align="center" alt="Nahaliel-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">](https://unity.com/)
   [<img align="center" alt="Nahaliel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   [<img align="center" alt="Nahaliel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">](https://www.typescriptlang.org/docs/)
   [<img align="center" alt="Nahaliel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
   [<img align="center" alt="Nahaliel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+  [<img align="center" alt="Nahaliel-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">](https://tailwindcss.com/)
 </div>
  
 <div> 
